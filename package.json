@@ -1,0 +1,23 @@
+{
+  "name": "firstmeanapp",
+  "version": "1.0.0",
+  "description": "first mean project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "stop": "killall -SIGINT this-name-can-be-as-long-as-it-needs-to-be"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "body-parser": "*",
+    "passport-jwt": "*"
+  },
+  "author": "judyjose",
+  "license": "ISC"
+}

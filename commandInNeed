@@ -1,0 +1,11 @@
+
+*******: COMMANDS IN NEEDED FOR SMOOTH SERVICE OF THIS PROGRAM :******
+
+
+GIVES OUT THE ALL INFOMRATION ABOUT THE RUNNING PROCESS :: sudo lsof -nPi -sTCP:LISTEN
+KILL THE PROCESS : kill -9 processID ----------------------------------------------------^
+
+shutdowns the server
+
+
+
